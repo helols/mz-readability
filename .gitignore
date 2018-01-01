@@ -8,3 +8,7 @@ node_modules
 .sw?
 *.jar
 *.xpi
+__*
+*.sublime-workspace
+package-lock.json
+.firebaserc
